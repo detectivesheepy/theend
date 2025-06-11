@@ -1,2 +1,1 @@
-# theend
-You reached the end of this site!
+![footer](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=the%20end%20:3&section=footer&reversal=true&animation=twinkling&desc=you%20reached%20the%20end%20of%20this%20website,%20wow!)
